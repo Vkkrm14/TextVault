@@ -209,7 +209,3 @@ npm run dev
 
 ---
 
-## 🗺️ Next Steps (Roadmap)
-1. **Phase 2B:** Wire full login/auth UI (replace demo page, handle JWT lifecycle).
-2. **Phase 3:** Vault CRUD UI (folder creation, rich text editor, folder passphrases).
-3. **Phase 4:** Hardening (rate limiting, session expiry, audit logs, nonce uniqueness).
